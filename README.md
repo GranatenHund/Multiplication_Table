@@ -1,4 +1,4 @@
-# Flask-PrintingData_toTable
+#Multiplication Table with Flask.
 Vincent Santaygillo
 
 Make sure you have flask and installed in your Python Environment.
